@@ -53,6 +53,42 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "trybick",
+      "name": "Tim Rybicki",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39889198?v=4",
+      "profile": "https://timr.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "evandroLutz",
+      "name": "evandroLutz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/48337261?v=4",
+      "profile": "https://github.com/evandroLutz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "xshadowlegendx",
+      "name": "xshadowlegendx",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21999889?v=4",
+      "profile": "https://github.com/xshadowlegendx",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aj-ya",
+      "name": "Ajeya Bhat",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59968173?v=4",
+      "profile": "https://github.com/aj-ya",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
